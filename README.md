@@ -3,6 +3,7 @@ Uydu Görüntülerinde Değişiklik Tespiti:
 1. Giriş
 Bu çalışmanın amacı, farklı yıllarda çekilmiş iki uydu görüntüsü arasındaki fiziksel değişiklikleri tespit etmek için basit ama etkili görüntü işleme teknikleri uygulamaktır.
 Uydu görüntüleri sıklıkla afet yönetimi, şehirleşme analizi, orman kaybı ve çevresel değişim gibi alanlarda kullanılmaktadır. Bu çalışmada temel hedef, iki tarihli görsel arasındaki görsel farkları otomatik olarak saptamak ve bu değişiklikleri görselleştirmektir.
+Uydu görüntülerine gezgin.gov.tr sitesinden ulaşabilirsiniz.
 
 2. Yöntem
 
