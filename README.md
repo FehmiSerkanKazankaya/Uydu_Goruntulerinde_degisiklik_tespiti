@@ -19,9 +19,9 @@ skimage.morphology: Morfolojik işlemler için
 3. Sonuçlar
 Görseller sırasıyla:
 
-2020 yılına ait uydu görüntüsü
+2020 yılına ait Bursa ili uydu görüntüsü
 
-2012 yılına ait uydu görüntüsü
+2012 yılına ait Bursa ili uydu görüntüsü
 
 İki görüntü arasındaki değişikliklerin işaretlendiği son çıktıyı göstermektedir.
 <img width="794" height="515" alt="indir (1)" src="https://github.com/user-attachments/assets/2d9376fe-c53f-4c85-b794-23bf51d5afc7" />
