@@ -5,6 +5,7 @@ Bu çalışmanın amacı, farklı yıllarda çekilmiş iki uydu görüntüsü ar
 Uydu görüntüleri sıklıkla afet yönetimi, şehirleşme analizi, orman kaybı ve çevresel değişim gibi alanlarda kullanılmaktadır. Bu çalışmada temel hedef, iki tarihli görsel arasındaki görsel farkları otomatik olarak saptamak ve bu değişiklikleri görselleştirmektir.
 
 2. Yöntem
+
 2.1. Kütüphaneler ve Görsellerin Yüklenmesi
 Çalışmada kullanılan Python kütüphaneleri:
 
